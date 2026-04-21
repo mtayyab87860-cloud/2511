@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/mtayyab87860-cloud/2332134.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
